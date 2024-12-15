@@ -1,2 +1,3 @@
 # EE450
-EE450 - Introduction to Computer Networks - USC 2024 Fall by Prof. Ali Zahid
+- Introduction to Computer Networks
+- USC EE450 Fall 2024 Homework, Lab & Projects
