@@ -1,3 +1,3 @@
 ## EE450 - Introduction to Computer Networks
 
-- USC EE450 Fall 2024 Homework, Lab & Projects
+- Homework, Lab & Projects of USC EE450 Fall 2024 by Prof. Ali Zahid
